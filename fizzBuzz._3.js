@@ -2,14 +2,14 @@
 var output = [];
 
 // Add a variable that will help with the counting forward
-var count = 1;
+
 
 // Create a function for the whole operation
 function fizzBuzz() {
 
-// Adding a while loop to it so that I don't have to type it again and again everytime
+// Adding a for loop to it so that I don't have to type it again and again everytime
 
-    while (count <= 100){
+    for (var count = 1;count <= 100; count++){
 
 //In the function, give the condition to print FizzBuzz when the number is divisible by 3 and 5 befoore anyother condition
 // This is because conditions are run from 1st line to last if the first is correct, it will bypas all the other codes.
@@ -24,7 +24,7 @@ function fizzBuzz() {
         output.push(count);
     }
 
-    count++;
+    
 }
 
 // Added console.log so I can see what has happened
