@@ -17,12 +17,12 @@ Here is a breakdown of the scripts included in this repository:
 | **`fibonacciGen.js`** | A generator that outputs the Fibonacci sequence up to a specified number of terms. |
 | **`fizzBuzz.js`** | The classic FizzBuzz programming challenge using standard conditional logic. |
 | **`fizzBuzz_2.js`** | An alternative implementation of FizzBuzz utilizing a `while` loop. |
-| **`fizzBuzz_3.js`** | Another variation/optimization of the FizzBuzz challenge. |
-| **`guestList.js`** | An array manipulation exercise for adding, removing, and managing a list of guests. |
+| **`fizzBuzz_3.js`** | Another variation/optimization of the FizzBuzz challenge utilizing the `for` loop. |
+| **`guestList.js`** | An array manipulation exercise for confirming if one is part of the list of guests. |
 | **`isLeapYear.js`** | A function that determines whether a given year is a leap year based on the Gregorian calendar rules. |
-| **`isLeapYear2.js`** | An alternative approach to solving the leap year algorithm. |
+| **`isLeapYear2.js`** | An alternative approach to solving the leap year algorithm.(extended version) |
 | **`loveCalculator.js`** | A fun, beginner-friendly script that calculates a "love compatibility" percentage between two names. |
-| **`number_of_bottles.js`** | A focused exercise on using `while` or `for` loops to count down a number of bottles. |
+| **`number_of_bottles.js`** | A focused exercise on using simple Javascript to count down a number of bottles in order to tell the teller how many bottles of milk one is buying. |
 | **`LICENSE`** | The open-source license for this repository. |
 
 ## 🛠️ Technologies Used
