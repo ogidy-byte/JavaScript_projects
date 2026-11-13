@@ -1,6 +1,6 @@
 # JavaScript Practice Projects 🚀
 
-Welcome to my JavaScript Practice Repository! This repository contains a collection of mini-projects, coding challenges, and algorithm exercises that I have built while learning and refining my JavaScript skills. 
+Welcome to my JavaScript Practice Repository! This repository contains a collection of mini-projects, coding challenges, and algorithm exercises that I have built while learning and refining my JavaScript skills.
 
 Each file is a standalone script designed to solve a specific problem or demonstrate a particular programming concept (such as loops, conditionals, functions, and string manipulation).
 
@@ -35,5 +35,6 @@ Here is a breakdown of the scripts included in this repository:
 To run any of these scripts locally, ensure you have [Node.js](https://nodejs.org/) installed.
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/ogidy-byte/JavaScript_projects.git
