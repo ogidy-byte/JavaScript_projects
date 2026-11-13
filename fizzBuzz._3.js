@@ -9,7 +9,7 @@ function fizzBuzz() {
 
 // Adding a for loop to it so that I don't have to type it again and again everytime
 
-    for (var count = 1;count <= 100; count++){
+    for (var count = 1; count <= 100; count++){
 
 //In the function, give the condition to print FizzBuzz when the number is divisible by 3 and 5 befoore anyother condition
 // This is because conditions are run from 1st line to last if the first is correct, it will bypas all the other codes.
@@ -23,8 +23,7 @@ function fizzBuzz() {
     } else{
         output.push(count);
     }
-
-    
+   
 }
 
 // Added console.log so I can see what has happened
